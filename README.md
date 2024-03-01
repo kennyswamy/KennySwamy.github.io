@@ -1,5 +1,5 @@
 # KennySwamy.github.io
-# Data Scientist
+Data Scientist
 
 # Education
 Masters in Data Science
