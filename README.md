@@ -1,4 +1,6 @@
 Data Analyst/Scientist Portfolio - Kenny Lawrence Swamy
+
+
 Welcome to my Data Analyst/Scientist Portfolio! This repository is a comprehensive collection of projects and case studies showcasing my skills in data analysis, machine learning, data visualization, and more. Each project is a testament to my ability to solve real-world problems using data-driven approaches.
 
 About Me
