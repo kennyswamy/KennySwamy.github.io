@@ -8,4 +8,3 @@ Masters in Data Science
 System Engineer @ TCS
 
 # Projects:
-1. 
