@@ -1,37 +1,12 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my Data Analyst/Scientist Portfolio! This repository is a comprehensive collection of projects and case studies showcasing my skills in data analysis, machine learning, data visualization, and more. Each project is a testament to my ability to solve real-world problems using data-driven approaches.
 
-
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
-
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
-
-(* = my other side project -- carrd.co)
-(** = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### Skills and Technologies
+Programming Languages: Python, R, Java, SQL, C, C++, HTML, CSS, JSON, XML, PHP, D3, JavaScript
+Python Libraries: Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, Scikit-learn, TensorFlow, PyTorch.
+R Packages: ggplot2, dplyr, tidyr, caret, shiny.
+Data Visualization Tools: Tableau, Power BI, QlikView/Qlik Sense.
+Big Data Processing Frameworks: Apache Hadoop, Apache Spark, Dask.
+SQL and NoSQL Databases: PostgreSQL, MongoDB, SQLite, MySQL, NoSQL.
+Machine Learning Libraries: Scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, Caffe, Fast.ai
+Big Data Technologies: Spark, Hadoop
+Others: Git, Docker, Jupyter Notebooks
